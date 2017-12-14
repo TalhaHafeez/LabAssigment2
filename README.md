@@ -1,6 +1,6 @@
 # LabAssigment2
 
 
-Rai is here
-i am lun
+Rai is here.
+i am Umair
 
